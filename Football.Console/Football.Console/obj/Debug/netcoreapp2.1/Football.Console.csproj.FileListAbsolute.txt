@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\obj\Debug\netcoreapp2.1\Football.Console.csprojAssemblyReference.cache
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\obj\Debug\netcoreapp2.1\Football.Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\obj\Debug\netcoreapp2.1\Football.Console.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\obj\Debug\netcoreapp2.1\Football.Console.AssemblyInfo.cs
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\bin\Debug\netcoreapp2.1\Football.Console.deps.json
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\bin\Debug\netcoreapp2.1\Football.Console.runtimeconfig.json
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\bin\Debug\netcoreapp2.1\Football.Console.runtimeconfig.dev.json
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\bin\Debug\netcoreapp2.1\Football.Console.dll
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\bin\Debug\netcoreapp2.1\Football.Console.pdb
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\obj\Debug\netcoreapp2.1\Football.Console.dll
+C:\Users\User\Desktop\mila\house stuff\falguni\Interview\Test\Football.Console\Football.Console\obj\Debug\netcoreapp2.1\Football.Console.pdb
